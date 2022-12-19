@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="257014ba-7856-445e-8ff0-eff81e1e5689" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bilet8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/исправлено/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ошибка/Main.java" afterDir="false" />
+    <list default="true" id="257014ba-7856-445e-8ff0-eff81e1e5689" name="Changes" comment="1 commit">
+      <change afterPath="$PROJECT_DIR$/src/заданиеСтрока/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +47,16 @@
       <option name="presentableId" value="Default" />
       <updated>1670956616772</updated>
       <workItem from="1670956618107" duration="2643000" />
-      <workItem from="1671311207600" duration="4239000" />
+      <workItem from="1671311207600" duration="4583000" />
     </task>
+    <task id="LOCAL-00001" summary="1 commit">
+      <created>1671483554813</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671483554813</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,5 +72,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 commit" />
   </component>
 </project>
